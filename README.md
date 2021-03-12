@@ -5,7 +5,6 @@
 ![version]
 ![Tested]
 ![autor]
-![main]
 ![li]
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/th3pr3d4t0r)
 
@@ -61,5 +60,4 @@
 [version]: https://img.shields.io/badge/Version-BETA%3A%20V.2.0-orange
 [tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Arch%20Linux%20%7C%20ReadOS-blue
 [autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-red
-[main]: https://img.shields.io/badge/Maintainer-%40Kedap-yellow
 [li]: https://img.shields.io/badge/license-MIT-blue.svg
