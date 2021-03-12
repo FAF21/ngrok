@@ -11,7 +11,7 @@
 <h2 align="center"> Herramienta para automatizar la instalación de ngrok en cualquier Terminal de forma rápida! </h3>
 
 <p align="center">
-  <a href="" align="center">TUTORIAL</a>
+  <a href="https://youtu.be/GjedBydfGvs" align="center">TUTORIAL</a>
 </p>
 
 <hr>
