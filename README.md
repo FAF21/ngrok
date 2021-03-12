@@ -51,7 +51,7 @@
 <img src="" alt="PREVIEW" align="center" width="350px" height="600px">
 
 ## Termux
-<img src="" alt="PREVIEW" align="center" width="350px" height="600px">
+<img src="https://user-images.githubusercontent.com/55555800/110987980-ed280a00-833d-11eb-8e7d-736c4dcdc77d.jpg" alt="PREVIEW" align="center" width="350px" height="600px">
 
 <hr>
 
