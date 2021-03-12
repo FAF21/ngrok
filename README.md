@@ -15,8 +15,5 @@ Script que automatiza la instalación de ngrok en tu Terminal Termux u Userland.
 
 Y listo!
 
-## Preview del script:
-![ngrok](https://user-images.githubusercontent.com/55555800/86855161-6b316400-c07f-11ea-9895-7847ee9ba1f7.jpg)
-
 
 #### Disfruta -> by Team th3_pr3dat0r
