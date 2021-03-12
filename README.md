@@ -1,22 +1,65 @@
-# ngrok-install
+<h1 align="center"> <i> Ngrok Install </i> </h1>
+<p align="center"><img src="#" alt="ICON" align="center" border="0" width="auto" height="auto"></p>
+<br><hr>
 
+![version]
+![Tested]
+![autor]
+![main]
+![li]
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/th3pr3d4t0r)
 
-Script que automatiza la instalación de ngrok en tu Terminal.
+<h2 align="center"> Herramienta para automatizar la instalacion de ngrok en cualquier Terminal de forma rápida! </h3>
 
-## Para usarlo solo ejecuta
+<p align="center">
+  <a href="" align="center">TUTORIAL</a>
+</p>
 
-(en orden):
+<hr>
 
-       cd $HOME
-        
-       git clone https://github.com/tony23x/ngrok-install.git
+<h1><img src="http://kauksu.com/games/skull.gif" width="80">Características:</h1>
 
-       cd ngrok-install;ls
+ *  Escrito en bash scripting 
+ *  Funciona en cualquier arquitectura 
+ *  Descarga automaticamente de la web oficial ngrok.com
 
-       bash ngrok-install.sh
-
-Y listo!
+<hr>
 
 
-#### Disfruta -> by Team th3_pr3dat0r
+# Install on Debian-based:
+
+* _Puedes clonarlo en el directorio que quieras:_
+ 
+```sh
+  git clone https://github.com/tony23x/beef-for-cerberus.git
+```
+
+* _Entra a la herramienta:_
+```sh
+   cd ngrok-install
+```
+* _Ejecuta el script:_
+```sh
+   bash ngrok-install.sh
+```
+<hr>
+
+# Previews:
+## Kali Linux
+<img src="" alt="PREVIEW"  align="center">
+
+## Userland
+<img src="" alt="PREVIEW" align="center" width="350px" height="600px">
+
+## Termux
+<img src="" alt="PREVIEW" align="center" width="350px" height="600px">
+
+<hr>
+
+
+<!-- MarkDown Links & Images -->
+[version]: https://img.shields.io/badge/Version-BETA%3A%20V.2.0-orange
+[tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Arch%20Linux%20%7C%20ReadOS-blue
+[autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-red
+[main]: https://img.shields.io/badge/Maintainer-%40Kedap-yellow
+[li]: https://img.shields.io/badge/license-MIT-blue.svg
