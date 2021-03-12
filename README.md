@@ -58,6 +58,6 @@
 
 <!-- MarkDown Links & Images -->
 [version]: https://img.shields.io/badge/Version-BETA%3A%20V.2.0-orange
-[tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Arch%20Linux%20%7C%20ReadOS-blue
+[tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Userland%20%7C%20Termux-blue
 [autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-red
 [li]: https://img.shields.io/badge/license-MIT-blue.svg
