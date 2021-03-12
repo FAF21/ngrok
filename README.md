@@ -45,7 +45,7 @@
 
 # Previews:
 ## Kali Linux
-<img src="" alt="PREVIEW"  align="center">
+<img src="https://i.ibb.co/1dJwNH2/Screenshot-2021-03-12-12-40-52.png" alt="PREVIEW"  align="center">
 
 ## Userland
 <img src="" alt="PREVIEW" align="center" width="350px" height="600px">
