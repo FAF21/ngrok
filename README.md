@@ -1,4 +1,7 @@
 # ngrok-install
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/th3pr3d4t0r)
+
 Script que automatiza la instalación de ngrok en tu Terminal.
 
 ## Para usarlo solo ejecuta
