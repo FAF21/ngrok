@@ -9,7 +9,7 @@
 ![li]
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/th3pr3d4t0r)
 
-<h2 align="center"> Herramienta para automatizar la instalacion de ngrok en cualquier Terminal de forma rápida! </h3>
+<h2 align="center"> Herramienta para automatizar la instalación de ngrok en cualquier Terminal de forma rápida! </h3>
 
 <p align="center">
   <a href="" align="center">TUTORIAL</a>
