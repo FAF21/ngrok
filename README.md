@@ -16,7 +16,7 @@
 
 <hr>
 
-<h1><img src="https://gifimage.net/wp-content/uploads/2017/06/mlg-frog-gif-5.gif" width="40">Características:</h1>
+<h1><img src="https://gifimage.net/wp-content/uploads/2017/06/mlg-frog-gif-5.gif" width="50">Características:</h1>
 
  *  Escrito en bash scripting 
  *  Funciona en cualquier arquitectura 
